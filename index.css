@@ -1,0 +1,232 @@
+.about-us1,
+.contact1,
+.home1,
+.select-your-favourite1,
+.speciality1 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 116.8px;
+  height: 21.6px;
+}
+.home1 {
+  left: 382px;
+  cursor: pointer;
+}
+.about-us1,
+.contact1,
+.select-your-favourite1,
+.speciality1 {
+  left: 499px;
+}
+.about-us1,
+.contact1,
+.select-your-favourite1 {
+  left: 654px;
+}
+.contact1,
+.select-your-favourite1 {
+  left: 782px;
+}
+.select-your-favourite1 {
+  top: 103px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-noto-sans-carian);
+  width: 499px;
+  height: 31px;
+}
+.navbar1 {
+  position: absolute;
+  top: 90px;
+  left: 174px;
+  width: 898.8px;
+  height: 134px;
+}
+.indulge-in-the2 {
+  margin: 0;
+}
+.indulge-in-the-container1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 519px;
+  height: 2499px;
+}
+.indulge-in-the-serene-harmony-container {
+  position: absolute;
+  top: 328px;
+  left: 174px;
+  width: 519px;
+  height: 330px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inknut-antiqua);
+}
+.blueberry-lavender-smoothie-container1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 777px;
+  height: 332px;
+}
+.blueberry-lavender-smoothie-go-container {
+  position: absolute;
+  top: 244px;
+  left: 165px;
+  width: 753px;
+  height: 53px;
+  overflow: hidden;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-cinzel-decorative);
+}
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 271px;
+  left: 873px;
+  width: 129px;
+  height: 96px;
+  object-fit: cover;
+}
+.icon2 {
+  top: 588px;
+  left: 868px;
+  width: 99.2px;
+  height: 110.2px;
+  object-fit: contain;
+}
+.side-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #e7e7e7);
+  width: 107px;
+  height: 768px;
+}
+.a-icon1,
+.ch-icon1,
+.png-transparent-smoothie-milks-icon1 {
+  position: absolute;
+  top: 233.9px;
+  left: 0.5px;
+  width: 73px;
+  height: 79.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.ch-icon1,
+.png-transparent-smoothie-milks-icon1 {
+  top: 496px;
+  left: 10.7px;
+  width: 62.7px;
+  height: 74.2px;
+}
+.png-transparent-smoothie-milks-icon1 {
+  top: 412.7px;
+  left: 2.4px;
+  width: 72.3px;
+  height: 72.7px;
+}
+.k-icon1 {
+  top: 323.7px;
+  left: 0;
+  width: 70.3px;
+  height: 74px;
+  cursor: pointer;
+}
+.b-icon1,
+.k-icon1,
+.m-icon1,
+.s3-icon1 {
+  position: absolute;
+  object-fit: contain;
+}
+.s3-icon1 {
+  top: 154.4px;
+  left: 1.9px;
+  width: 71.6px;
+  height: 79.6px;
+  cursor: pointer;
+}
+.b-icon1,
+.m-icon1 {
+  left: 1px;
+}
+.m-icon1 {
+  top: 73.6px;
+  width: 70.2px;
+  height: 80.6px;
+  cursor: pointer;
+}
+.b-icon1 {
+  top: 0;
+  width: 71.4px;
+  height: 73.8px;
+}
+.icon-item,
+.linear1 {
+  position: absolute;
+  top: 173px;
+  left: 17.5px;
+  width: 74.7px;
+  height: 570.2px;
+}
+.icon-item {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  backdrop-filter: blur(62.5px);
+  border-radius: 50%;
+  background-color: var(--color-deeppink);
+  border: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 107px;
+  height: 89px;
+}
+.fresh-smoothie1 {
+  position: absolute;
+  top: 19px;
+  left: 16px;
+  display: inline-block;
+  width: 109px;
+  height: 51px;
+  text-shadow: 0.5px 0 0#fff, 0 0.5px 0#fff, -0.5px 0 0#fff, 0-0.5px 0#fff;
+}
+.icon3,
+.side1 {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  width: 125px;
+  height: 89px;
+}
+.side1 {
+  top: 0;
+  height: 768px;
+  color: var(--color-white);
+  font-family: var(--font-noto-sans-carian);
+}
+.pizza-rotator-icon1 {
+  position: absolute;
+  top: -405.2px;
+  left: 775.5px;
+  width: 2167.3px;
+  height: 1836.7px;
+  object-fit: contain;
+}
+.div1 {
+  width: 100%;
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #d07ca1 26%, #faf3f6);
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

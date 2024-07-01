@@ -1,0 +1,243 @@
+.about-us,
+.contact,
+.home,
+.select-your-favourite,
+.speciality {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 116.8px;
+  height: 21.6px;
+}
+.home {
+  left: 382px;
+  cursor: pointer;
+}
+.about-us,
+.contact,
+.select-your-favourite,
+.speciality {
+  left: 499px;
+}
+.about-us,
+.contact,
+.select-your-favourite {
+  left: 654px;
+}
+.contact,
+.select-your-favourite {
+  left: 782px;
+}
+.select-your-favourite {
+  top: 103px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-noto-sans-carian);
+  width: 499px;
+  height: 31px;
+}
+.navbar {
+  position: absolute;
+  top: 90px;
+  left: 174px;
+  width: 898.8px;
+  height: 134px;
+}
+.indulge-in-the {
+  margin: 0;
+}
+.indulge-in-the-container {
+  position: absolute;
+  top: -2159px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 519px;
+  height: 2499px;
+}
+.indulge-in-the-serene-harmony-wrapper {
+  position: absolute;
+  top: 328px;
+  left: 174px;
+  width: 519px;
+  height: 330px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inknut-antiqua);
+}
+.blueberry-lavender-smoothie-container {
+  position: absolute;
+  top: -274px;
+  left: 0;
+  display: inline-block;
+  width: 777px;
+  height: 332px;
+}
+.blueberry-lavender-smoothie-go-wrapper {
+  position: absolute;
+  top: 244px;
+  left: 165px;
+  width: 753px;
+  height: 53px;
+  overflow: hidden;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-cinzel-decorative);
+}
+.side-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #e7e7e7);
+  width: 107px;
+  height: 768px;
+}
+.a-icon,
+.ch-icon {
+  position: absolute;
+  object-fit: contain;
+}
+.a-icon {
+  top: 233.9px;
+  left: 0.5px;
+  width: 73px;
+  height: 79.2px;
+  cursor: pointer;
+}
+.ch-icon {
+  top: 496px;
+  left: 10.7px;
+  width: 62.7px;
+  height: 74.2px;
+}
+.png-transparent-smoothie-milks-icon {
+  position: absolute;
+  top: 412.7px;
+  left: 2.4px;
+  width: 72.3px;
+  height: 72.7px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.k-icon {
+  position: absolute;
+  top: 323.7px;
+  left: 0;
+  width: 70.3px;
+  height: 74px;
+  cursor: pointer;
+}
+.k-icon,
+.m-icon,
+.s3-icon {
+  object-fit: contain;
+}
+.s3-icon {
+  position: absolute;
+  top: 154.4px;
+  left: 1.9px;
+  width: 71.6px;
+  height: 79.6px;
+  cursor: pointer;
+}
+.m-icon {
+  top: 73.6px;
+  left: 1px;
+  width: 70.2px;
+  height: 80.6px;
+}
+.b-icon,
+.linear,
+.m-icon {
+  position: absolute;
+  cursor: pointer;
+}
+.b-icon {
+  top: 0;
+  left: 1px;
+  width: 71.4px;
+  height: 73.8px;
+  object-fit: contain;
+}
+.linear {
+  top: 173px;
+  left: 17.5px;
+  width: 74.7px;
+  height: 570.2px;
+}
+.icon-child,
+.side-item {
+  position: absolute;
+  left: 0;
+  backdrop-filter: blur(62.5px);
+  border-radius: 50%;
+  box-sizing: border-box;
+  width: 107px;
+  height: 89px;
+}
+.side-item {
+  top: 46px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(12, 232, 246, 0.59),
+    rgba(255, 255, 255, 0.78) 92%
+  );
+  border: 4px solid var(--color-darkslategray);
+}
+.icon-child {
+  top: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-deeppink);
+  border: 4px solid var(--color-white);
+}
+.fresh-smoothie {
+  position: absolute;
+  top: 19px;
+  left: 16px;
+  display: inline-block;
+  width: 109px;
+  height: 51px;
+  text-shadow: 0.5px 0 0#fff, 0 0.5px 0#fff, -0.5px 0 0#fff, 0-0.5px 0#fff;
+}
+.icon,
+.side {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  width: 125px;
+  height: 89px;
+}
+.side {
+  top: 0;
+  height: 768px;
+  color: var(--color-white);
+  font-family: var(--font-noto-sans-carian);
+}
+.image-7-icon,
+.pizza-rotator-icon {
+  position: absolute;
+  top: -858.4px;
+  left: 389.7px;
+  width: 2917.2px;
+  height: 2917.2px;
+  object-fit: contain;
+}
+.image-7-icon {
+  top: 604px;
+  left: 986px;
+  width: 242px;
+  height: 108px;
+  object-fit: cover;
+}
+.div {
+  width: 100%;
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #bf5a3f 18.57%, #faf3f6 93.5%);
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

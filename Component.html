@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Component.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto Sans Carian:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cinzel Decorative:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Vidaloka:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sans Serif Collection:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Signika Negative:wght@300;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="div2">
+      <img class="side-icon" alt="" src="./public/side@2x.png" />
+
+      <img class="icon4" alt="" src="./public/1605818669813-1@2x.png" />
+
+      <div class="navbar2">
+        <div class="home2">HOME</div>
+        <div class="speciality2" id="sPECIALITYText">SPECIALITY</div>
+        <div class="about-us2">ABOUT US</div>
+        <div class="contact2">CONTACT</div>
+      </div>
+      <div class="blend-your-day">Blend Your Day with Flavors.</div>
+      <div class="smoothies-that-everyone-container">
+        <p class="smoothies-that">
+          <b>Smoothies that</b>
+        </p>
+        <p class="everyone-loves">Everyone Loves !</p>
+      </div>
+      <div class="season-special">Season Special</div>
+      <div class="main-photo">
+        <img class="image-16-icon" alt="" src="./public/image-16@2x.png" />
+
+        <img class="image-15-icon" alt="" src="./public/image-15@2x.png" />
+
+        <img class="image-14-icon" alt="" src="./public/image-14@2x.png" />
+
+        <img class="image-12-icon" alt="" src="./public/image-12@2x.png" />
+
+        <div class="image-10"></div>
+        <img class="image-13-icon" alt="" src="./public/image-13@2x.png" />
+      </div>
+      <div class="explore" id="exploreContainer">
+        <div class="explore-child"></div>
+        <b class="explore1">Explore</b>
+      </div>
+    </div>
+
+    <script>
+      var sPECIALITYText = document.getElementById("sPECIALITYText");
+      if (sPECIALITYText) {
+        sPECIALITYText.addEventListener("click", function (e) {
+          window.location.href = "./Frame1.html";
+        });
+      }
+
+      var exploreContainer = document.getElementById("exploreContainer");
+      if (exploreContainer) {
+        exploreContainer.addEventListener("click", function (e) {
+          window.location.href = "./Frame1.html";
+        });
+      }
+    </script>
+  </body>
+</html>

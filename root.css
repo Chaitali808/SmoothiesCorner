@@ -1,0 +1,248 @@
+.about-us3,
+.contact3,
+.home3,
+.select-your-favourite2,
+.speciality3 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 116.8px;
+  height: 21.6px;
+}
+.home3 {
+  left: 382px;
+  cursor: pointer;
+}
+.about-us3,
+.contact3,
+.select-your-favourite2,
+.speciality3 {
+  left: 499px;
+}
+.about-us3,
+.contact3,
+.select-your-favourite2 {
+  left: 654px;
+}
+.contact3,
+.select-your-favourite2 {
+  left: 782px;
+}
+.select-your-favourite2 {
+  top: 103px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-noto-sans-carian);
+  width: 499px;
+  height: 31px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 474px;
+  left: 763px;
+  width: 200px;
+  height: 123px;
+  object-fit: cover;
+}
+.navbar3 {
+  position: absolute;
+  top: 90px;
+  left: 174px;
+  width: 963px;
+  height: 597px;
+}
+.indulge-in-the4 {
+  margin: 0;
+}
+.indulge-in-the-container2 {
+  position: absolute;
+  top: -316px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 519px;
+  height: 2499px;
+}
+.indulge-in-the-serene-harmony-frame {
+  position: absolute;
+  top: 328px;
+  left: 174px;
+  width: 519px;
+  height: 330px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inknut-antiqua);
+}
+.blueberry-lavender-smoothie-container2 {
+  position: absolute;
+  top: -42px;
+  left: 0;
+  display: inline-block;
+  width: 777px;
+  height: 332px;
+}
+.blueberry-lavender-smoothie-go-frame {
+  position: absolute;
+  top: 244px;
+  left: 165px;
+  width: 753px;
+  height: 53px;
+  overflow: hidden;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-cinzel-decorative);
+}
+.icon5,
+.icon6 {
+  position: absolute;
+  top: 271px;
+  left: 873px;
+  width: 129px;
+  height: 96px;
+  object-fit: cover;
+}
+.icon6 {
+  top: 588px;
+  left: 868px;
+  width: 99.2px;
+  height: 110.2px;
+  object-fit: contain;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #e7e7e7);
+  width: 107px;
+  height: 768px;
+}
+.a-icon2,
+.ch-icon2,
+.png-transparent-smoothie-milks-icon2 {
+  position: absolute;
+  top: 233.9px;
+  left: 0.5px;
+  width: 73px;
+  height: 79.2px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.ch-icon2,
+.png-transparent-smoothie-milks-icon2 {
+  top: 496px;
+  left: 10.7px;
+  width: 62.7px;
+  height: 74.2px;
+}
+.png-transparent-smoothie-milks-icon2 {
+  top: 412.7px;
+  left: 2.4px;
+  width: 72.3px;
+  height: 72.7px;
+}
+.k-icon2 {
+  top: 323.7px;
+  left: 0;
+  width: 70.3px;
+  height: 74px;
+  cursor: pointer;
+}
+.b-icon2,
+.k-icon2,
+.m-icon2,
+.s3-icon2 {
+  position: absolute;
+  object-fit: contain;
+}
+.s3-icon2 {
+  top: 154.4px;
+  left: 1.9px;
+  width: 71.6px;
+  height: 79.6px;
+  cursor: pointer;
+}
+.b-icon2,
+.m-icon2 {
+  top: 73.6px;
+  left: 1px;
+  width: 70.2px;
+  height: 80.6px;
+}
+.b-icon2 {
+  top: 0;
+  width: 71.4px;
+  height: 73.8px;
+  cursor: pointer;
+}
+.linear2,
+.side2 {
+  position: absolute;
+  top: 173px;
+  left: 17.5px;
+  width: 74.7px;
+  height: 570.2px;
+}
+.side2 {
+  top: 0;
+  left: 0;
+  width: 107px;
+  height: 768px;
+}
+.image-2-icon,
+.pizza-rotator-icon2 {
+  position: absolute;
+  top: -977.5px;
+  left: 378.7px;
+  width: 2835px;
+  height: 2871.7px;
+  object-fit: contain;
+}
+.image-2-icon {
+  top: 541px;
+  left: 1137px;
+  width: 201px;
+  height: 169px;
+  object-fit: cover;
+}
+.icon-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  backdrop-filter: blur(62.5px);
+  border-radius: 50%;
+  background-color: var(--color-deeppink);
+  border: 4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 107px;
+  height: 89px;
+}
+.fresh-smoothie2 {
+  position: absolute;
+  top: 19px;
+  left: 16px;
+  display: inline-block;
+  width: 109px;
+  height: 51px;
+  text-shadow: 0.5px 0 0#fff, 0 0.5px 0#fff, -0.5px 0 0#fff, 0-0.5px 0#fff;
+}
+.icon7 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 125px;
+  height: 89px;
+  color: var(--color-white);
+  font-family: var(--font-noto-sans-carian);
+}
+.div3 {
+  width: 100%;
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #ffda1a 18.57%, #faf3f6 93.5%);
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

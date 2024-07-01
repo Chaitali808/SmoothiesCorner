@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-sans-carian: "Noto Sans Carian";
+  --font-cinzel-decorative: "Cinzel Decorative";
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-inter: Inter;
+  --font-signika-negative: "Signika Negative";
+  --font-vidaloka: Vidaloka;
+  --font-sans-serif-collection: "Sans Serif Collection";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-16xl: 35px;
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-deeppink: #fb1e6e;
+  --color-darkslategray: #065b5b;
+  --color-black: #000;
+  --color-red: #f70e0e;
+}
